@@ -7,4 +7,8 @@
 
 hallo
 
+<<<<<<< HEAD
 hjkfasdlj
+=======
+change in fdslkj
+>>>>>>> feauture123
